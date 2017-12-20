@@ -1,2 +1,2 @@
 # ProjectPlanet
-Procedural planet renderer using WebGL
+Procedural planet renderer using WebGL.
